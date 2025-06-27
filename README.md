@@ -5,7 +5,7 @@ _No logos. No names. Just signals._
 - 🧪  RCE exploit testers  
 - 🕳️  LFI/RFI proof-of-concepts  
 - 🪝  Payload builders & fuzzers  
-- 👤  Anonymous automation scripts
+- 👤  Automation scripts
 
 ---
 
