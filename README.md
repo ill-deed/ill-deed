@@ -24,9 +24,9 @@ _I’m just a shadow passing through your logs._
 
 ---
 
-```bash
-# clone, tweak, fire
-git clone https://github.com/illdeed/...
+```
+# email
+illdeed@protonmail.com
 ```
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
