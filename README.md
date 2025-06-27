@@ -1,11 +1,4 @@
-
-> 👁️‍🗨️ `Observation leads to enumeration.`  
-> ⛓️ `Enumeration leads to exploitation.`  
-> 🩻 `Exploitation leads to truth.`  
->  
-> _No logos. No names. Just signal._
-
----
+_No logos. No names. Just signals._
 
 ### 🛠 Tools I Drop
 - 🛰️  Subnet scanners  
