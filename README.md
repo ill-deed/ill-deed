@@ -1,4 +1,3 @@
----
 
 > 👁️‍🗨️ `Observation leads to enumeration.`  
 > ⛓️ `Enumeration leads to exploitation.`  
