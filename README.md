@@ -28,6 +28,7 @@ _I’m just a shadow passing through your logs._
 illdeed@protonmail.com
 ```
 
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 xjMEaF4qfBYJKwYBBAHaRw8BAQdAd7kfaH1w3FdGSHmkvWg0R/NqYBxjZfEV
@@ -46,3 +47,4 @@ RhV5ZiQRrRVt8t7jdGbDoWhAKGIag4kL
 =r1tS
 
 -----END PGP PUBLIC KEY BLOCK-----
+```
