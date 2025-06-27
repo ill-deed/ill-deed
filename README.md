@@ -25,7 +25,6 @@ _I’m just a shadow passing through your logs._
 ---
 
 ```
-# email
 illdeed@protonmail.com
 ```
 
