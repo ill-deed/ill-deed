@@ -4,8 +4,8 @@ _No logos. No names. Just signals._
 - 🛰️  Subnet scanners  
 - 🧪  RCE exploit testers  
 - 🕳️  LFI/RFI proof-of-concepts  
-- 🪝  Payload builders & fuzzers  
-- 👤  Automation scripts
+- 🪝  Multi-target scanners
+- 👤  PoC ports & refactoring 
 
 ---
 
