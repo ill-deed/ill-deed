@@ -1,14 +1,5 @@
 _No logos. No names. Just signals._
 
-### 🛠 Tools I Drop
-- 🛰️  Subnet scanners  
-- 🧪  RCE exploit testers  
-- 🕳️  LFI/RFI proof-of-concepts  
-- 🪝  Multi-target scanners
-- 👤  PoC ports & refactoring 
-
----
-
 ### ❓ Whoami
 
 You don’t need to know.  
